@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://seif1000.github.io/benmazouz",
   "scripts": {
     "dev": "webpack-dev-server --mode development",
-    "prod": "webpack --mode production"
+    "prod": "webpack --mode production",
+    "deploy": "gh-pages -d dist"
   },
   "author": "benmazouz seif eddine",
   "license": "MIT",
