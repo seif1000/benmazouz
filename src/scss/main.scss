@@ -395,6 +395,10 @@ header{
         display: grid;
         grid-template-columns: repeat(auto-fit,minmax(380px,1fr));
         grid-gap: 30px;
+        .android{
+            width:50%;
+            margin: auto ;
+        }
         .project{
             cursor: pointer;
             height: auto;

@@ -22,10 +22,14 @@ const width = {
     css:80,
     sass:65,
     boots:80,
-    js:80,
+    js:90,
     react:80,
     firbase:45,
+    java:60,
+    android :50 ,
     UI:75,
+    nodejs:80,
+    express:80 ,
     git:60,
 
 }
