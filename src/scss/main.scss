@@ -372,8 +372,10 @@ header{
 /*profolio*/
 #portfolio{
    background: lighten(lightgray, 2);
-    padding: 1em;
+    padding: 1em 1em 3em;
     text-align: center;
+  
+    
     
     p{
       
@@ -677,17 +679,11 @@ footer{
                     margin-top: 0px;
                 }
             }
+            
         }
-       
-           
-            #contactForm{
-               display: grid;
-               grid-template-columns:repeat(1,1fr);
-               .full{
-                   grid-column: 1;
-               }
-            }
+        
         }
+        
     
 
 }
